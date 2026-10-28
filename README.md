@@ -49,3 +49,11 @@ I practiced identifying exposed services, reviewing suspicious web requests, and
 
 ## Ethical Notice
 All testing was performed in an isolated, authorized cybersecurity lab for educational purposes.
+
+## Lab Screenshots
+
+### DVWA Dashboard
+![DVWA Dashboard](05-dvwa-dashboard.png)
+
+### PHPIDS Intrusion Detection Log
+![PHPIDS Intrusion Detection Log](07-phpids-intrusion-detection-log.png)
